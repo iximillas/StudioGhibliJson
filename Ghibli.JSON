@@ -1,0 +1,26 @@
+[
+{
+"name": "Sin cara",
+"img": "https://raw.githubusercontent.com/iximillas/StudioGhibliJson/main/img/sincara.png"
+},
+{
+"name": "Totoro",
+"img": "https://raw.githubusercontent.com/iximillas/StudioGhibliJson/main/img/totoro1.png"
+},
+{
+"name": "Totoro2",
+"img": "https://raw.githubusercontent.com/iximillas/StudioGhibliJson/main/img/totoro2.png"
+},
+{
+"name": "Mini Totoro",
+"img": "https://raw.githubusercontent.com/iximillas/StudioGhibliJson/main/img/minitotoro.png"
+},
+{
+  "name": "Boh",
+  "img": "https://raw.githubusercontent.com/iximillas/StudioGhibliJson/main/img/boh.png"
+},
+{
+  "name": "Pato",
+  "img": "https://raw.githubusercontent.com/iximillas/StudioGhibliJson/main/img/pato.png"
+}
+]
